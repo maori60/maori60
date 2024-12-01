@@ -1,20 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21815
-Fork on GitHub
-6941
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I have been a student at 42 School since November 2023</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maori60" alt="maori60" /></a> </p>
 
@@ -31,28 +15,3 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maori60&show_icons=true&locale=en" alt="maori60" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maori60&" alt="maori60" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
