@@ -1,129 +1,72 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Matrix Effect - I am learning</title>
-  <style>
-    /* Base styling */
-    body {
-      background-color: black;
-      color: #00ff00; /* Green text like in Matrix */
-      font-family: 'Courier New', Courier, monospace;
-      margin: 0;
-      padding: 0;
-      height: 100vh;
-      overflow: hidden;
-    }
+# I am currently learning:
 
-    h3 {
-      text-align: center;
-      font-size: 40px;
-      color: #00ff00;
-      margin-top: 20px;
-    }
+## Programming Languages
 
-    p {
-      text-align: center;
-      font-size: 20px;
-      margin-top: 20px;
-    }
+### C Programming
+C is a powerful and widely used general-purpose programming language that is particularly suited for system-level programming, embedded systems, and developing operating systems.
 
-    a img {
-      width: 40px;
-      height: 40px;
-      margin: 10px;
-      opacity: 0.8;
-      animation: fall 5s infinite linear;
-    }
+![c](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg =40x40)
 
-    /* Animations */
-    @keyframes fall {
-      0% { transform: translateY(-100%); opacity: 0.8; }
-      100% { transform: translateY(100vh); opacity: 0.2; }
-    }
+### C++
+C++ is an extension of C, providing object-oriented features like classes and objects. It is widely used for system software, game development, and high-performance applications.
 
-    /* Matrix falling effect */
-    .matrix-effect {
-      position: absolute;
-      top: 0;
-      left: 0;
-      pointer-events: none;
-      z-index: 9999;
-      font-family: 'Courier New', Courier, monospace;
-    }
+![cplusplus](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg =40x40)
 
-    .matrix-effect span {
-      position: absolute;
-      top: -20px;
-      color: #00ff00;
-      animation: matrixRain 1s linear infinite;
-      opacity: 0.9;
-    }
+### Python
+Python is a high-level, interpreted programming language known for its readability and broad use in web development, data science, automation, and artificial intelligence.
 
-    @keyframes matrixRain {
-      0% { top: -20px; }
-      100% { top: 100%; }
-    }
-  </style>
-</head>
-<body>
+![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg =40x40)
 
-  <h3>I am currently learning:</h3>
+---
 
-  <p>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino"/>
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"/>
-    </a>
-  </p>
+## Development Tools
 
-  <!-- Matrix effect container -->
-  <div class="matrix-effect" id="matrix-effect"></div>
+### Bash
+Bash is a command-line shell and scripting language used for automating tasks and interacting with the operating system. It is essential for Linux/Unix system administration and development tasks.
 
-  <script>
-    // JavaScript to create matrix effect of falling characters
-    const matrixEffect = document.getElementById('matrix-effect');
-    const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789@#$%^&*()*&^%'.split('');
+![bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg =40x40)
 
-    setInterval(() => {
-      const span = document.createElement('span');
-      const char = characters[Math.floor(Math.random() * characters.length)];
-      const leftPosition = Math.random() * window.innerWidth;
+### Git
+Git is a version control system that allows multiple people to work on a project simultaneously, tracking changes and collaborating effectively.
 
-      span.style.left = `${leftPosition}px`;
-      span.innerHTML = char;
+![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg =40x40)
 
-      matrixEffect.appendChild(span);
+---
 
-      setTimeout(() => {
-        matrixEffect.removeChild(span);
-      }, 5000); // Remove character after animation
-    }, 100); // Create a new character every 100ms
-  </script>
+## Databases
 
-</body>
-</html>
+### MySQL
+MySQL is an open-source relational database management system (RDBMS) used for storing and managing data. It is popular for web development and application backends.
+
+![mysql](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg =40x40)
+
+### MongoDB
+MongoDB is a NoSQL database known for its scalability and flexibility. It stores data in JSON-like documents, making it ideal for modern applications.
+
+![mongodb](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg =40x40)
+
+### MariaDB
+MariaDB is a fork of MySQL and is an open-source RDBMS, offering high performance, scalability, and a strong focus on security.
+
+![mariadb](https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg =40x40)
+
+---
+
+## Operating Systems
+
+### Linux
+Linux is an open-source operating system used for both servers and desktops. It is known for its stability, security, and flexibility, widely used in development and system administration.
+
+![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg =40x40)
+
+### Arduino
+Arduino is an open-source electronics platform based on simple software and hardware. It is commonly used in prototyping, IoT (Internet of Things), and embedded systems development.
+
+![arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg =40x40)
+
+---
+
+### About Me
+I am a student at 42 School Paris since November 2023, currently learning various programming languages and tools for my development journey.
+
+Feel free to explore my projects and learn along with me! 🚀
