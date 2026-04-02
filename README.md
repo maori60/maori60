@@ -1,67 +1,100 @@
-# I am currently learning:
+<h1 align="center">Van BUI</h1>
+<h3 align="center">Backend & Systems Developer | 42 Paris</h3>
 
-## Programming Languages
-
-### C Programming
-C is a powerful and widely used general-purpose programming language that is particularly suited for system-level programming, embedded systems, and developing operating systems.
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-
-### C++
-C++ is an extension of C, providing object-oriented features like classes and objects. It is widely used for system software, game development, and high-performance applications.
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-
-### Python
-Python is a high-level, interpreted programming language known for its readability and broad use in web development, data science, automation, and artificial intelligence.
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<p align="center">
+Focused on system programming, backend architecture, and scalable infrastructures.
+</p>
 
 ---
 
-## Development Tools
+## 🚀 About Me
 
-### Bash
-Bash is a command-line shell and scripting language used for automating tasks and interacting with the operating system. It is essential for Linux/Unix system administration and development tasks.
-
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-
-### Git
-Git is a version control system that allows multiple people to work on a project simultaneously, tracking changes and collaborating effectively.
-
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+- 🎓 Student at **42 Paris** (since November 2023)
+- 💻 Strong focus on **C / C++ system programming**
+- ⚙️ Interested in **backend architecture, networking, and infrastructure**
+- 🔐 Growing interest in **cybersecurity and system performance**
+- 🌍 Open to **international opportunities (Europe / Asia)**
 
 ---
 
-## Databases
+## 🧠 Current Focus
 
-### MySQL
-MySQL is an open-source relational database management system (RDBMS) used for storing and managing data. It is popular for web development and application backends.
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-
-### MongoDB
-MongoDB is a NoSQL database known for its scalability and flexibility. It stores data in JSON-like documents, making it ideal for modern applications.
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-
-### MariaDB
-MariaDB is a fork of MySQL and is an open-source RDBMS, offering high performance, scalability, and a strong focus on security.
-
-<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
+- System-level programming in **C / C++**
+- Building projects around:
+  - Networking
+  - Process management
+  - Memory optimization
+- Developing backend skills with:
+  - Python
+  - SQL databases
+- Working with Linux environments and automation
 
 ---
 
-## Operating Systems
+## 🛠️ Tech Stack
 
-### Linux
-Linux is an open-source operating system used for both servers and desktops. It is known for its stability, security, and flexibility, widely used in development and system administration.
+### 💻 Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+### ⚙️ Tools & Environment
+<p>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</p>
 
-### Arduino
-Arduino is an open-source electronics platform based on simple software and hardware. It is commonly used in prototyping, IoT (Internet of Things), and embedded systems development.
+### 🗄️ Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40"/>
+</p>
 
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+### 🔌 Other Technologies
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
+</p>
 
 ---
+
+## 📚 42 Projects (Core Curriculum)
+
+- 🧱 **Libft / ft_printf / get_next_line**
+- 🧠 **minishell** → custom UNIX shell
+- ⚙️ **Philosophers** → multithreading & concurrency
+- 🌐 **NetPractice** → networking fundamentals
+- 🎮 **cub3D** → raycasting engine
+- 💬 **ft_irc** → IRC server in C++
+- 🐳 **Inception** → Docker infrastructure (NGINX, WordPress, MariaDB)
+
+---
+
+## 🎯 Career Direction
+
+I aim to become a **Backend / Systems Engineer**, with a strong focus on:
+
+- Scalable architectures
+- System performance
+- Networking
+- Infrastructure & DevOps
+- Cybersecurity
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maori60&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maori60&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with me
+
+- 💼 LinkedIn: www.linkedin.com/in/van-tien-bui-0b2944152
+- 📧 Email: contact.vantienbui@gmail.com
