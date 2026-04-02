@@ -7,7 +7,7 @@ Focused on system programming, backend architecture, and scalable infrastructure
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 Student at **42 Paris** (since November 2023)
 - 💻 Strong focus on **C / C++ system programming**
@@ -17,7 +17,7 @@ Focused on system programming, backend architecture, and scalable infrastructure
 
 ---
 
-## 🧠 Current Focus
+##  Current Focus
 
 - System-level programming in **C / C++**
 - Building projects around:
@@ -31,7 +31,7 @@ Focused on system programming, backend architecture, and scalable infrastructure
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### 💻 Languages
 <p>
@@ -61,7 +61,7 @@ Focused on system programming, backend architecture, and scalable infrastructure
 
 ---
 
-## 📚 42 Projects (Core Curriculum)
+##  42 Projects (Core Curriculum)
 
 - 🧱 **Libft / ft_printf / get_next_line**
 - 🧠 **minishell** → custom UNIX shell
@@ -73,7 +73,7 @@ Focused on system programming, backend architecture, and scalable infrastructure
 
 ---
 
-## 🎯 Career Direction
+##  Career Direction
 
 I aim to become a **Backend / Systems Engineer**, with a strong focus on:
 
